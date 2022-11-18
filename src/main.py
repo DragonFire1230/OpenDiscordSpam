@@ -1,4 +1,4 @@
-"""
+﻿"""
 Copyright DragonFire Community 2020-2022
 
 Этот файл содержит основной код проекта OpenDiscordSpam
