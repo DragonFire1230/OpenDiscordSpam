@@ -1,15 +1,17 @@
-![20-seconds](https://user-images.githubusercontent.com/64083584/201028641-7e734648-5ae6-4d74-bb28-aed4a203cd24.png)
+![изображение](https://user-images.githubusercontent.com/64083584/202633290-0234261d-e97d-411e-b185-28215882f9e3.png)
+![изображение](https://user-images.githubusercontent.com/64083584/202633240-f555486d-3c9b-4e02-bbaf-cec5df492b6d.png)
+
 # OpenDiscordSpam (ODS)
 Инструмент для спама в лс
 
-# ПРЕДУПРЕЖДЕНИЕ
-ODS НАХОДИТСЯ НА РАННЕЙ СТАДИЙ РАЗРАБОТКИ
+# Причина создания
+OpenDiscordSpam (ODS) - Open-Source альтернатива FZSP Bots, KSP Bots, и другим проектам которые рейдят в лс
 
-ТУТ ПОКА ЧТО ОЧЕНЬ МНОГО ПРОБЛЕМ И БАГОВ
-
-МОЖЕТЕ ИСПОЛЬЗОВАТЬ, НО СПАМ В ЛС НЕ РАБОТАЕТ НОРМАЛЬНО
+Так сказать, #OpenSource (#OpSrc) :)
 
 # Как запустить
 ``pip install -r src/requirements.txt``
 
 ``python3 src/main.py``
+
+Ну и пользуйтесь! Рейдите лс своим друзьям! :)
